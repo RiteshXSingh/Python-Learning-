@@ -1,1 +1,4 @@
 print("Hello"); print("Kyu"); print("Kya haal Mammu")
+
+syntax error line
+print("Namaste") print("Mamu")
