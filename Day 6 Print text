@@ -1,0 +1,6 @@
+# By using print() we can print line
+print("Hello World")
+# By this function we can print many lines as you want
+print("Namaste")
+print("Mamu")
+print("Kya Hall chaal")
