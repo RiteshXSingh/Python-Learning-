@@ -1,0 +1,10 @@
+# to print number we right 
+# we dont use quotes to print number
+print(16)
+print(01)
+print(2010)
+# we can also do math like
+print(16+10)
+print(2010+1996)
+# mix text and number
+print("I practice",10,"days to learn python by the idea of my Mamu")
